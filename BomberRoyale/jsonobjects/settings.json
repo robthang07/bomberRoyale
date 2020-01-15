@@ -1,0 +1,48 @@
+{
+	"settings" : 
+	{
+		"enterBtn" : 58,
+		"gameName" : "Bomber Royale",
+		"inputs" : 
+		{
+			"0" : 
+			{
+				"bomb" : 38,
+				"down" : 18,
+				"left" : 0,
+				"right" : 3,
+				"up" : 22
+			},
+			"1" : 
+			{
+				"bomb" : 57,
+				"down" : 74,
+				"left" : 71,
+				"right" : 72,
+				"up" : 73
+			},
+			"2" : 
+			{
+				"bomb" : 17,
+				"down" : 6,
+				"left" : 5,
+				"right" : 7,
+				"up" : 19
+			},
+			"3" : 
+			{
+				"bomb" : 24,
+				"down" : 10,
+				"left" : 9,
+				"right" : 11,
+				"up" : 8
+			}
+		},
+		"mute" : true,
+		"pauseBtn" : 36,
+		"screenHeight" : 520,
+		"screenMode" : false,
+		"screenWidth" : 680,
+		"volume" : 5
+	}
+}
